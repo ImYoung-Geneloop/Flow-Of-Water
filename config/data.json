@@ -1,0 +1,21 @@
+{
+    "handler": {
+        "directories": {
+            "emojis": {
+                "Fun": "😂",
+                "Information": "ℹ️",
+                "Moderation": "⚒",
+                "Utility": "⚙️",
+                "Tags":"⚙️"
+            }
+        },
+        "commands": {
+            "lock-unlock": {
+                "roles_to_update": [
+                    "996349514749325374",
+                    "981187294927142912"
+                ]
+            }
+        }
+    }
+}
