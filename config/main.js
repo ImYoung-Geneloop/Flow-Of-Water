@@ -42,7 +42,7 @@ module.exports = {
             }
         },
         // Identification:
-        token: "OTM3NzgzMTQ1MTYyNDk4MTE4.GQ5tzd.v_GB-yZDiMfQhfECu4Gl3t6Ibiw7CsSgeCQ46k",
+        token: "Can't Give that info sorry",
         id: "937783145162498118",
         OWNER: ["774354935906959380"],
         PREFIX: ">",
@@ -50,7 +50,7 @@ module.exports = {
 
     // Database:
     database: {
-        mongodb_uri: 'mongodb+srv://sunrise:sunrise@sunrise.seesaix.mongodb.net/?retryWrites=true&w=majority'
+        mongodb_uri: 'Cant give that either sorry'
     },
 
     // APIs:
@@ -66,7 +66,7 @@ module.exports = {
 
     //button handler
     handlers: {
-        Guild_ID: "1059918951653584896", // 
+        Guild_ID: "hm", // 
       },
 
       //emoji for Button
