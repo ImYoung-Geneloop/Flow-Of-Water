@@ -13,4 +13,7 @@
 
 
 
-How to config and run the bot. Please go ahead and visit `config/main.json`. Once you visit there please scroll down and edit anything that you would like besides the intents. This will configure the slash commands to the bot and get it ready for running. Please go ahead and do node index.js to run the bot after you have config'd the bot. Please go to the commands and footers and change those as this bot is open source in which you have full access to the code.
+How to config and run the bot. Please go ahead and visit `config/main.js`. Once you visit there please scroll down and edit anything that you would like besides the intents. This will configure the slash commands to the bot and get it ready for running. Please go ahead and do node index.js to run the bot after you have config'd the bot. Please go to the commands and footers and change those as this bot is open source in which you have full access to the code.
+
+
+Places to go. `commands`,`index`,`Star Button`
